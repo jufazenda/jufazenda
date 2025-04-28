@@ -1,7 +1,6 @@
-## 👋 Olá, sou a Ju Fazenda! 🚀
+## 👋 Oie, sou a Ju Fazenda! 
 
-🌱 Codando, quebrando e consertando coisas todos os dias!  
-💉 Infobio de dia, dev de noite... e às vezes o contrário.  
+💉 Infobio, iOS Developer, Front-end Developer e muito mais.  
 ⚡ Amante de **Typescript**, **Tailwind CSS**, e tudo que deixa a web mais bonita!  
 
 ---
