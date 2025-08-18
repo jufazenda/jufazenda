@@ -1,4 +1,4 @@
-## 👋 Oie, sou a Ju Fazenda! 
+## 👋 Oie, sou a Jú Fazenda! 
 
 💉 Infobio, iOS Developer, Front-end Developer e muito mais.  
 ⚡ Amante de **Typescript**, **Tailwind CSS**, e tudo que deixa a web mais bonita!  
@@ -20,7 +20,3 @@
 
 ![Jufazenda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jufazenda&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jufazenda&layout=compact&theme=radical)  
-
----
-
-🎯 **Missão:** Criar projetos incríveis e aprender algo novo todo dia. ☕💻  
